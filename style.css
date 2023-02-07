@@ -1,0 +1,69 @@
+body{
+	margin: 0;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	font-size: 18px;
+	line-height: 30px;
+}
+
+header{
+	background-color: darkred;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+
+h1, h2{
+	font-family: 'Abril Fatface', cursive;
+}
+
+header h1{
+	color: white;
+	font-size: 60px;
+}
+
+header img{
+	border-radius: 240px;
+	width: 460px;
+	border: 20px solid white;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 30px;
+	color: darkred;
+}
+
+a{
+	color: darkred;
+}
+a:hover{
+	color: orangered;
+}
+
+footer{
+	background-color: darkred;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: white;
+}
+footer a:hover{
+	color: orangered;
+	background-color: transparent;
+}
